@@ -18,6 +18,8 @@ It's open source and built with privacy in mind. Your browsing data stays on you
 ## Docs
 
 - [Requirements](docs/REQUIREMENTS.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Threat model](docs/THREAT_MODEL.md)
 - [Roadmap](docs/PROJECT_PLAN.md)
 
 ## License
