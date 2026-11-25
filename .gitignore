@@ -12,6 +12,7 @@ htmlcov/
 node_modules/
 dist/
 build/
+coverage/
 
 # Local data — never commit user activity
 *.sqlite

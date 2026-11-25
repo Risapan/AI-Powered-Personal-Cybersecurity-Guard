@@ -1,0 +1,10 @@
+# Secret scanning config. Uses gitleaks' built-in rules.
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Lock files only contain package integrity hashes"
+paths = [
+  '''(^|/)package-lock\.json$''',
+  '''(^|/)uv\.lock$''',
+]
