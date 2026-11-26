@@ -58,6 +58,7 @@ Rules:
 | FRI-4 | Python engine tooling (ruff, mypy, pytest) |
 | FRI-5 | Extension tooling (TypeScript, ESLint, Prettier, Vitest) |
 | FRI-6 | Repo hygiene: editorconfig, secret scanning, check script, contributing guide |
+| FRI-7 | Core data contracts (findings, signals, intel, explanations, actions) |
 
 New tasks are added here as they start.
 
