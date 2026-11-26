@@ -10,12 +10,15 @@ from .enums import (
     UserFeedback,
     Verdict,
 )
+from .explanations import Explanation, Fact, UngroundedExplanationError
 from .findings import Finding, IntelResult, Signal, Subject
 
 __all__ = [
     "ActionKind",
     "ActionStatus",
     "Confidence",
+    "Explanation",
+    "Fact",
     "Finding",
     "IntelResult",
     "IntelStatus",
@@ -23,6 +26,7 @@ __all__ = [
     "Signal",
     "Subject",
     "SubjectKind",
+    "UngroundedExplanationError",
     "UserFeedback",
     "Verdict",
 ]
