@@ -20,6 +20,7 @@ It's open source and built with privacy in mind. Your browsing data stays on you
 - [Requirements](docs/REQUIREMENTS.md)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Threat model](docs/THREAT_MODEL.md)
+- [Data contracts](docs/SCHEMAS.md)
 - [Roadmap](docs/PROJECT_PLAN.md)
 - [Contributing](CONTRIBUTING.md)
 
